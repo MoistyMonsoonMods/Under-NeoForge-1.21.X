@@ -5,6 +5,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.moistymonsoon.theunder.TheUnder;
+import net.moistymonsoon.theunder.block.ModBlocks;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
@@ -19,6 +20,11 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("itemGroup.theunder.under_tab"))
                     .icon(() -> new ItemStack(ModItems.SILVER_INGOT.get()))
                     .displayItems((parameters, output) -> {
+                        output.accept(ModBlocks.LENTARITE);
+                        output.accept(ModBlocks.CHLORITE);
+                        output.accept(ModBlocks.SAPPHIRITE);
+                        output.accept(ModBlocks.GLACIAL_ICE);
+
                         output.accept(ModItems.SILVER_INGOT);
                         output.accept(ModItems.RAW_SILVER);
                     })

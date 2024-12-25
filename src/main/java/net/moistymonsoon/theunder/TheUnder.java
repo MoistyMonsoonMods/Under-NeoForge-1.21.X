@@ -1,6 +1,7 @@
 package net.moistymonsoon.theunder;
 
 import net.minecraft.world.item.CreativeModeTabs;
+import net.moistymonsoon.theunder.block.ModBlocks;
 import net.moistymonsoon.theunder.item.ModCreativeModeTabs;
 import net.moistymonsoon.theunder.item.ModItems;
 import org.slf4j.Logger;
@@ -40,6 +41,7 @@ public class TheUnder {
         ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
 
         // Register ourselves for server and other game events we are interested in.

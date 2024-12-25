@@ -1,0 +1,5 @@
+// 1.21.1	2024-12-25T22:05:03.1437774	Recipes
+fd77182ca77cd8081bc1903960bc587a8c991086 data/theunder/advancement/recipes/misc/silver_ingot_from_blasting_raw_silver.json
+384fd18dbfd32d0933b3e7124b75efb3f32b66ae data/theunder/advancement/recipes/misc/silver_ingot_from_smelting_raw_silver.json
+7dc0a8a273c37b279e6180d7d65664e5b3d47bb1 data/theunder/recipe/silver_ingot_from_blasting_raw_silver.json
+2a444b75a02326cd4859f6215616faf68c2d1ed7 data/theunder/recipe/silver_ingot_from_smelting_raw_silver.json

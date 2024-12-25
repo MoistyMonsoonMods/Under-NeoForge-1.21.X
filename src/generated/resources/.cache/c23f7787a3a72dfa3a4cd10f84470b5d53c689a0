@@ -1,0 +1,13 @@
+// 1.21.1	2024-12-25T22:05:03.1437774	Block States: theunder
+4b073857420dd3f8ff418507cf2930bb7f53e7f1 assets/theunder/blockstates/chlorite.json
+99769f9928e3cc0908cbec383645fbe48b8ec799 assets/theunder/blockstates/glacial_ice.json
+ada940dc1e3a50e17de2f5675f184b6b3a249a50 assets/theunder/blockstates/lentarite.json
+685308c7e94607ab3555279d434d689f7ab35f11 assets/theunder/blockstates/sapphirite.json
+f75b8ffeb8630a4e8ba39724f9edfa38396707eb assets/theunder/models/block/chlorite.json
+d2502fbfd4eab01c1efcaba3f0f7dc18d2c8d456 assets/theunder/models/block/glacial_ice.json
+d32439d1097dfd29ea02275f66324989fc84246e assets/theunder/models/block/lentarite.json
+cb6942d8e84b97d488fcfa190332b6f1c89ffd85 assets/theunder/models/block/sapphirite.json
+a144ffd06169014f2f64edf912b2548046480acb assets/theunder/models/item/chlorite.json
+542112cb513e036487b56678cfc53830b45a2885 assets/theunder/models/item/glacial_ice.json
+2b2f35b88cfc3209a7f3e3222f3a77f041c4387a assets/theunder/models/item/lentarite.json
+9cdf67a45db0f4f2868afb9d001d9aa073e91e60 assets/theunder/models/item/sapphirite.json
