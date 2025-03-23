@@ -20,14 +20,40 @@ public class ModBlockTagProvider extends BlockTagsProvider {
     protected void addTags(HolderLookup.Provider provider) {
         this.tag(BlockTags.MINEABLE_WITH_PICKAXE)
                 .add(ModBlocks.LENTARITE.get())
+                .add(ModBlocks.LENTARITE_BRICKS.get())
+                .add(ModBlocks.CRACKED_LENTARITE_BRICKS.get())
+                .add(ModBlocks.POLISHED_LENTARITE.get())
+                .add(ModBlocks.CHISELED_LENTARITE.get())
+                .add(ModBlocks.MOSSY_LENTARITE.get())
                 .add(ModBlocks.CHLORITE.get())
+                .add(ModBlocks.CHLORITE_BRICKS.get())
                 .add(ModBlocks.SAPPHIRITE.get())
-                .add(ModBlocks.GLACIAL_ICE.get());
+                .add(ModBlocks.SAPPHIRITE_BRICKS.get())
+                .add(ModBlocks.POLISHED_SAPPHIRITE.get())
+                .add(ModBlocks.POLISHED_SAPPHIRITE_BRICKS.get())
+                .add(ModBlocks.POLISHED_SAPPHIRITE_TILES.get())
+                .add(ModBlocks.CHISELED_SAPPHIRITE.get())
+                .add(ModBlocks.GLACIAL_ICE.get())
+                .add(ModBlocks.BRITESTONE.get())
+                .add(ModBlocks.VOIDROCK.get());
 
         this.tag(BlockTags.NEEDS_IRON_TOOL)
                 .add(ModBlocks.LENTARITE.get())
+                .add(ModBlocks.LENTARITE_BRICKS.get())
+                .add(ModBlocks.CRACKED_LENTARITE_BRICKS.get())
+                .add(ModBlocks.POLISHED_LENTARITE.get())
+                .add(ModBlocks.CHISELED_LENTARITE.get())
+                .add(ModBlocks.MOSSY_LENTARITE.get())
                 .add(ModBlocks.CHLORITE.get())
+                .add(ModBlocks.CHLORITE_BRICKS.get())
                 .add(ModBlocks.SAPPHIRITE.get())
-                .add(ModBlocks.GLACIAL_ICE.get());
+                .add(ModBlocks.SAPPHIRITE_BRICKS.get())
+                .add(ModBlocks.POLISHED_SAPPHIRITE.get())
+                .add(ModBlocks.POLISHED_SAPPHIRITE_BRICKS.get())
+                .add(ModBlocks.POLISHED_SAPPHIRITE_TILES.get())
+                .add(ModBlocks.CHISELED_SAPPHIRITE.get())
+                .add(ModBlocks.GLACIAL_ICE.get())
+                .add(ModBlocks.BRITESTONE.get())
+                .add(ModBlocks.VOIDROCK.get());
     }
 }

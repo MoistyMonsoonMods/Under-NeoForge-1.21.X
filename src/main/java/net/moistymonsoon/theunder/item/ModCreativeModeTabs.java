@@ -21,9 +21,23 @@ public class ModCreativeModeTabs {
                     .icon(() -> new ItemStack(ModItems.SILVER_INGOT.get()))
                     .displayItems((parameters, output) -> {
                         output.accept(ModBlocks.LENTARITE);
+                        output.accept(ModBlocks.LENTARITE_BRICKS);
+                        output.accept(ModBlocks.CRACKED_LENTARITE_BRICKS);
+                        output.accept(ModBlocks.POLISHED_LENTARITE);
+                        output.accept(ModBlocks.CHISELED_LENTARITE);
+                        output.accept(ModBlocks.MOSSY_LENTARITE);
+                        output.accept(ModBlocks.LOAM);
                         output.accept(ModBlocks.CHLORITE);
+                        output.accept(ModBlocks.CHLORITE_BRICKS);
                         output.accept(ModBlocks.SAPPHIRITE);
+                        output.accept(ModBlocks.SAPPHIRITE_BRICKS);
+                        output.accept(ModBlocks.POLISHED_SAPPHIRITE);
+                        output.accept(ModBlocks.POLISHED_SAPPHIRITE_BRICKS);
+                        output.accept(ModBlocks.POLISHED_SAPPHIRITE_TILES);
+                        output.accept(ModBlocks.CHISELED_SAPPHIRITE);
                         output.accept(ModBlocks.GLACIAL_ICE);
+                        output.accept(ModBlocks.FLESH_POROUS);
+                        output.accept(ModBlocks.FLESH_CLUMP);
 
                         output.accept(ModItems.SILVER_INGOT);
                         output.accept(ModItems.RAW_SILVER);

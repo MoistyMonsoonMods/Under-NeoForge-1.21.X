@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:end_islands"
+  },
+  "argument2": {
+    "type": "minecraft:spline",
+    "spline": {
+      "coordinate": "minecraft:end/base_3d_noise",
+      "points": [
+        {
+          "location": 0,
+          "derivative": 0,
+          "value": 0
+        },
+        {
+          "location": 1,
+          "derivative": 4,
+          "value": 4
+        }
+      ]
+    }
+  }
+}

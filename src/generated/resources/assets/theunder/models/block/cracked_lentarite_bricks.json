@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "theunder:block/cracked_lentarite_bricks"
+  }
+}

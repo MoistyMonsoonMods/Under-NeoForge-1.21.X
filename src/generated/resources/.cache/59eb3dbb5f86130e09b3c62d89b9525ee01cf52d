@@ -1,5 +1,21 @@
-// 1.21.1	2024-12-25T22:05:03.1427778	Loot Tables
+// 1.21.1	2025-03-17T16:24:12.5693769	Loot Tables
+85af1a82cd7832f1335555d2aca97e05524258b0 data/theunder/loot_table/blocks/britestone.json
+8ce808a2e939a79beb801387cb6757d0ec7091a9 data/theunder/loot_table/blocks/chiseled_lentarite.json
+dbd7ab866ea6078591ded696eed484a1e6436784 data/theunder/loot_table/blocks/chiseled_sapphirite.json
 368b2aee684e33ae0b35028c9a00afe552ec5793 data/theunder/loot_table/blocks/chlorite.json
+5217371874153f73a3db76af7eecea61cbbbf5d0 data/theunder/loot_table/blocks/chlorite_bricks.json
+24d8fd70567932258d9b8f56fda79e1712a26d13 data/theunder/loot_table/blocks/cracked_lentarite_bricks.json
+71992617247bf09b59e76e4ac6a084bda3220a92 data/theunder/loot_table/blocks/flesh_clump.json
+8ff02468e0b4cb89675af18dbe601a16a89d9f0f data/theunder/loot_table/blocks/flesh_porous.json
 29a6c2f9c09b64b5c007e75339c3c3aa65b08915 data/theunder/loot_table/blocks/glacial_ice.json
 bfc80d022aa1d89fe3039ec573ab48bca73fbf16 data/theunder/loot_table/blocks/lentarite.json
+d0fbf34a4c3de78c909bf3ffac12d887d32d186d data/theunder/loot_table/blocks/lentarite_bricks.json
+4eb8924e530285cded8624f585a35f08afb328cd data/theunder/loot_table/blocks/loam.json
+1ac94d4fbe0010b7b893bb37e63e93fb21134941 data/theunder/loot_table/blocks/mossy_lentarite.json
+3699ebc6934b88827e86f9db53b4876c0cdbc600 data/theunder/loot_table/blocks/polished_lentarite.json
+b9d4f1bcf8b314088e063821ec4955a50c6d71eb data/theunder/loot_table/blocks/polished_sapphirite.json
+4b03a1e0298ac53b093f5eedf00d30651c133282 data/theunder/loot_table/blocks/polished_sapphirite_bricks.json
+c0af0de0f6701f6915be8087aac5911791d63566 data/theunder/loot_table/blocks/polished_sapphirite_tiles.json
 8a2559e5afcc568a31b9298c5908776251d84b64 data/theunder/loot_table/blocks/sapphirite.json
+15993ad238c19cabb697ca41169da73fcbbc3455 data/theunder/loot_table/blocks/sapphirite_bricks.json
+80b0d6f44f4db1b5db21d69bdd16ab94dc07ff2e data/theunder/loot_table/blocks/voidrock.json

@@ -19,9 +19,25 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
     @Override
     protected void generate() {
         dropSelf(ModBlocks.LENTARITE.get());
+        dropSelf(ModBlocks.LENTARITE_BRICKS.get());
+        dropSelf(ModBlocks.CRACKED_LENTARITE_BRICKS.get());
+        dropSelf(ModBlocks.POLISHED_LENTARITE.get());
+        dropSelf(ModBlocks.CHISELED_LENTARITE.get());
+        dropSelf(ModBlocks.LOAM.get());
+        dropSelf(ModBlocks.SAPPHIRITE_BRICKS.get());
+        dropSelf(ModBlocks.POLISHED_SAPPHIRITE.get());
+        dropSelf(ModBlocks.POLISHED_SAPPHIRITE_BRICKS.get());
+        dropSelf(ModBlocks.POLISHED_SAPPHIRITE_TILES.get());
+        dropSelf(ModBlocks.CHISELED_SAPPHIRITE.get());
+        dropSelf(ModBlocks.MOSSY_LENTARITE.get());
         dropSelf(ModBlocks.CHLORITE.get());
+        dropSelf(ModBlocks.CHLORITE_BRICKS.get());
         dropSelf(ModBlocks.SAPPHIRITE.get());
         dropSelf(ModBlocks.GLACIAL_ICE.get());
+        dropSelf(ModBlocks.BRITESTONE.get());
+        dropSelf(ModBlocks.VOIDROCK.get());
+        dropWhenSilkTouch(ModBlocks.FLESH_POROUS.get());
+        dropWhenSilkTouch(ModBlocks.FLESH_CLUMP.get());
 
     }
 

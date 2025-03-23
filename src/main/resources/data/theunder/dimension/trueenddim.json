@@ -1,0 +1,10 @@
+{
+  "type": "theunder:trueenddim_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:the_end"
+    },
+    "settings": "theunder:trueenddimnoise"
+  }
+}

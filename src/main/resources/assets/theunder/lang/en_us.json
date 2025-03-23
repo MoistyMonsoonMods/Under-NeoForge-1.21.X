@@ -3,9 +3,25 @@
   "item.theunder.raw_silver": "Raw Silver",
 
   "block.theunder.lentarite": "Lentarite",
+  "block.theunder.lentarite_bricks": "Lentarite Bricks",
+  "block.theunder.cracked_lentarite_bricks": "Cracked Lentarite Bricks",
+  "block.theunder.polished_lentarite": "Polished Lentarite",
+  "block.theunder.chiseled_lentarite": "Chiseled Lentarite",
+  "block.theunder.mossy_lentarite": "Mossy Lentarite",
+  "block.theunder.loam": "Loam",
   "block.theunder.chlorite": "Chlorite",
+  "block.theunder.chlorite_bricks": "Chlorite Bricks",
   "block.theunder.sapphirite": "Sapphirite",
+  "block.theunder.sapphirite_bricks": "Sapphirite Bricks",
+  "block.theunder.polished_sapphirite": "Polished Sapphirite",
+  "block.theunder.polished_sapphirite_bricks": "Polished Sapphirite Bricks",
+  "block.theunder.polished_sapphirite_tiles": "Polished Sapphirite Tiles",
+  "block.theunder.chiseled_sapphirite": "Chiseled Sapphirite",
   "block.theunder.glacial_ice": "Glacial Ice",
+  "block.theunder.flesh_porous": "Porous Flesh Block",
+  "block.theunder.flesh_clump": "Clumpy Flesh Block",
+  "block.theunder.britestone": "Britestone",
+  "block.theunder.voidrock": "Voidrock",
 
   "itemGroup.theunder.under_tab": "The Under"
 

@@ -1,8 +1,21 @@
 {
   "values": [
     "theunder:lentarite",
+    "theunder:lentarite_bricks",
+    "theunder:cracked_lentarite_bricks",
+    "theunder:polished_lentarite",
+    "theunder:chiseled_lentarite",
+    "theunder:mossy_lentarite",
     "theunder:chlorite",
+    "theunder:chlorite_bricks",
     "theunder:sapphirite",
-    "theunder:glacial_ice"
+    "theunder:sapphirite_bricks",
+    "theunder:polished_sapphirite",
+    "theunder:polished_sapphirite_bricks",
+    "theunder:polished_sapphirite_tiles",
+    "theunder:chiseled_sapphirite",
+    "theunder:glacial_ice",
+    "theunder:britestone",
+    "theunder:voidrock"
   ]
 }
